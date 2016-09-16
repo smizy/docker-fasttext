@@ -1,4 +1,4 @@
-# docker-word2vec
+# docker-fasttext
 
 fastText command docker image based on alpine
 
